@@ -110,21 +110,6 @@ Décomposition hiérarchique du `Total_Purchase_Amount` selon les dimensions : G
 
 ---
 
-## 📁 Structure des fichiers
-
-```
-.
-├── E-commerce_nettoyage.ipynb   # Preprocessing Python
-├── ecommerce_dashboard.pbix     # Dashboard Power BI
-├── images/
-│   ├── KPI.png
-│   ├── filtre.png
-│   └── decomposition-tree.png
-└── README.md
-```
-
----
-
 ## 🛠 Technologies utilisées
 
 | Outil | Usage |
@@ -134,7 +119,6 @@ Décomposition hiérarchique du `Total_Purchase_Amount` selon les dimensions : G
 | **Jupyter Notebook** | Environnement d'analyse interactif |
 | **Power BI Desktop** | Visualisation & reporting |
 | **DAX** | Mesures calculées dans Power BI |
-| **Faker** | Génération des données synthétiques |
 
 ---
 
